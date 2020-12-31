@@ -1,0 +1,19 @@
+*{
+     margin:0;
+      padding: 0; 
+      box-sizing: border-box;
+      }
+      div {
+        padding-top: 50px;
+        background-color: blueviolet;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+      }
+      #grad1 {
+        height: 200px;
+        background-color: red; /* For browsers that do not support gradients */
+        background-image: linear-gradient(red, yellow);
+      }
+ 
+     
